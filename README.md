@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Buse Yıldırım</h1>
 <h3 align="center">Data Scientist & Machine Learning Engineer </h3>
 
-- 🌱 I’m currently learning **Machine Learning and Data Science**
+- 🌱 I’m a **Data Scientist at Alotech & Call Center Studio** . I continue to actively learn and produce through data science and machine learning.
 
 - 📫 How to reach me **busyyildirim@gmail.com**
 
