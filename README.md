@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Buse Yıldırım</h1>
 <h3 align="center">Data Scientist & Machine Learning Engineer </h3>
 
-- 🌱 I’m a **Data Scientist at Allianz Türkiye** . I continue to actively learn and produce through data science,machine learning and big data.
+- 🌱 I’m a **Data Scientist at Allianz Türkiye** . 
+- I continue to actively learn and produce through data science,machine learning and big data.
 
 - 📫 How to reach me **busyyildirim@gmail.com**
 
