@@ -4,7 +4,7 @@
 -  I’m a **Data Scientist at Allianz Türkiye** .🌱 
 - I continue to actively learn and produce through data science,machine learning and big data.
 
-- 📫 How to reach me **busyyildirim@gmail.com**
+- How to reach me **busyyildirim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
